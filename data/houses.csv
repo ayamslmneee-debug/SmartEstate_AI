@@ -1,0 +1,17 @@
+area,bedrooms,bathrooms,parking,city,distance_to_center_km,building_age,price
+120,3,2,Yes,Beirut,2.5,5,180000
+85,2,1,No,Beirut,1.2,12,130000
+200,4,3,Yes,Beirut,4.0,2,320000
+150,3,2,Yes,Jounieh,1.0,8,160000
+95,2,1,No,Jounieh,3.5,15,95000
+250,4,4,Yes,Jounieh,0.5,1,290000
+110,2,2,Yes,Byblos,2.0,6,115000
+170,3,2,Yes,Byblos,1.5,4,175000
+300,5,4,Yes,Byblos,5.0,3,380000
+130,3,2,No,Saida,1.8,10,105000
+180,3,3,Yes,Saida,2.2,7,145000
+70,1,1,No,Saida,0.8,20,65000
+140,3,2,Yes,Tripoli,1.1,9,98000
+210,4,3,Yes,Tripoli,3.0,5,160000
+100,2,1,No,Tripoli,2.5,14,72000
+
