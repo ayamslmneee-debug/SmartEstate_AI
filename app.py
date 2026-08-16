@@ -3,6 +3,14 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from sklearn.ensemble import RandomForestRegressor
+import streamlit.components.v1 as components
+
+components.html(
+    """
+    <link rel="manifest" href="/manifest.json">
+    """,
+    height=0,
+)
 # Initialize Session State for Preferences
 if "lang" not in st.session_state:
     st.session_state["lang"] = "English 🇬🇧"
