@@ -6,3 +6,5 @@ scikit-learn
 requests
 Pillow
 reportlab
+folium
+streamlit-folium
