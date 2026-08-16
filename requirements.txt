@@ -8,3 +8,4 @@ Pillow
 reportlab
 folium
 streamlit-folium
+fpdf
